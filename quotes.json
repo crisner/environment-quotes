@@ -1,93 +1,116 @@
 [
     {
+        "id": 1,
         "quoteAuthor": "E.B. White",
         "quoteText": "I am pessimistic about the human race because it is too ingenious for its own good. Our approach to nature is to beat it into submission. We would stand a better chance of survival if we accommodated ourselves to this planet and viewed it appreciatively, instead of skeptically and dictatorially."
     },
     {
+        "id": 2,
         "quoteAuthor": "Lady Bird Johnson",
         "quoteText": "The environment is where we all meet; where all have a mutual interest; it is the one thing all of us share."
     },
     {
+        "id": 3,
         "quoteAuthor": "John James Audubon",
         "quoteText": "A true conservationist is a man who knows that the world is not given by his fathers, but borrowed from his children."
     },
     {
+        "id": 4,
         "quoteAuthor": "John Muir",
         "quoteText": "In every walk with nature one receives far more than he seeks."
     },
     {
+        "id": 5,
         "quoteAuthor": "David Attenborough",
         "quoteText": "An understanding of the natural world and what’s in it is a source of not only a great curiosity but great fulfillment."
     },
     {
+        "id": 6,
         "quoteAuthor": "Theodore Roosevelt",
         "quoteText": "Here is your country. Cherish these natural wonders, cherish the natural resources, cherish the history and romance as a sacred heritage, for your children and your children’s children. Do not let selfish men or greedy interests skin your country of its beauty, its riches or its romance."
     },
     {
+        "id": 7,
         "quoteAuthor": "William Ruckelshaus",
         "quoteText": "Nature provides a free lunch, but only if we control our appetites."
     },
     {
+        "id": 8,
         "quoteAuthor": "David Attenborough",
         "quoteText": "It seems to me that the natural world is the greatest source of excitement; the greatest source of visual beauty; the greatest source of intellectual interest. It is the greatest source of so much in life that makes life worth living."
     },
     {
+        "id": 9,
         "quoteAuthor": "Franklin D. Roosevelt",
         "quoteText": "A nation that destroys its soils destroys itself. Forests are the lungs of our land, purifying the air and giving fresh strength to our people."
     },
     {
+        "id": 10,
         "quoteAuthor": "Jane Goodall",
         "quoteText": "You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of difference you want to make."
     },
     {
+        "id": 11,
         "quoteAuthor": "E. O. Wilson",
         "quoteText": "Perhaps the time has come to cease calling it the 'environmentalist' view, as though it were a lobbying effort outside the mainstream of human activity, and to start calling it the real-world view."
     },
     {
+        "id": 12,
         "quoteAuthor": "Julia Hill",
         "quoteText": "The question is not 'Can you make a difference?' You already do make a difference. It's just a matter of what kind of difference you want to make during your life on this planet."
     },
     {
+        "id": 13,
         "quoteAuthor": "Richard St. Barbe Baker",
         "quoteText": "This generation may either be the last to exist in any semblance of a civilised world or that it will be the first to have the vision, the bearing and the greatness to say, 'I will have nothing to do with this destruction of life, I will play no part in this devastation of the land, I am determined to live and work for peaceful construction for I am morally responsible for the world of today and the generations of tomorrow."
     },
     {
+        "id": 14,
         "quoteAuthor": "David Suzuki",
         "quoteText": "Unless we are willing to encourage our children to reconnect with and appreciate the natural world, we can't expect them to help protect and care for it."
     },
     {
+        "id": 15,
         "quoteAuthor": "David Attenborough",
         "quoteText": "Anyone who thinks that you can have infinite growth on a planet with finite resources is either a madman or an economist."
     },
     {
+        "id": 16,
         "quoteAuthor": "Sunderlal Bahuguna",
         "quoteText": "The solution of present-day problems lie in the re-establishment of a harmonious relationship between man and nature. To keep this relationship permanent we will have to digest the definition of real development: development is synonymous with culture. When we sublimate nature in a way that we achieve peace, happiness, prosperity and, ultimately, fulfilment along with satisfying our basic needs, we march towards culture."
     },
     {
+        "id": 17,
         "quoteAuthor": "Aldo Leopold",
         "quoteText": "We abuse land because we regard it as a commodity belonging to us. When we see land as a community to which we belong, we may begin to use it with love and respect."
     },
     {
+        "id": 18,
         "quoteAuthor": "Frank Lloyd Wright",
         "quoteText": "The best friend of earth of man is the tree. When we use the tree respectfully and economically, we have one of the greatest resources on the earth."
     },
     {
+        "id": 19,
         "quoteAuthor": "Jimmy Carter",
         "quoteText": "We simply must balance our demand for energy with our rapidly shrinking resources. By acting now we can control our future instead of letting the future control us."
     },
     {
+        "id": 20,
         "quoteAuthor": "Robert Alan Silverstein",
         "quoteText": "We can create a more sustainable, cleaner and safer world by making wiser energy choices."
     },
     {
+        "id": 21,
         "quoteAuthor": "Warren Flint",
         "quoteText": "Sustainability requires maintaining life-supporting natural capital in order for our socioeconomic goals to be met."
     },
     {
+        "id": 22,
         "quoteAuthor": "Robert Alan Silverstein",
         "quoteText": "We can help educate our families and communities about the importance of recycling for our environment, and how each of us can make a difference for a better world by recycling."
     },
     {
+        "id": 23,
         "quoteAuthor": "Amory Lovins",
         "quoteText": "Rely on renewable energy flows that are always there whether we use them or not, such as, sun, wind and vegetation: on energy income, not depletable energy capital."
     }
